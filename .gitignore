@@ -1,0 +1,7 @@
+dags/__pycache__/
+.env
+env/
+logs/
+.ipynb_checkpoints/
+__pycache__/
+permissions-417120-8c4dc3a5c773.json
