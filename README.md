@@ -43,7 +43,7 @@ DAG consists of 6 Tasks:<br>
 # 🔍️ Google Looker
 
 Dashboard is in Google Looker <br> 
-&shy;<img src="[insert_link](https://github.com/PKuziola/gunb_permissions/blob/main/img/google_looker_gif.gif?raw=true)"/>
+&shy;<img src="https://raw.githubusercontent.com/PKuziola/gunb_permissions/main/img/google_looker_gif.gif"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
