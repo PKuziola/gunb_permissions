@@ -29,7 +29,7 @@ DAG consists of 6 Tasks:<br>
 - calc_aggregates
 - send_email
 
-&shy;<img src="https://i.ibb.co/2YBRRpy/dag-screen-1.png"/>
+&shy;<img src="https://raw.githubusercontent.com/PKuziola/gunb_permissions/main/img/img_1.png"/>
 
 
 # 🔍️ Google Looker
@@ -45,7 +45,7 @@ Jupyter Notebook contrary to Google Looker connects to POSTGRESQL database<br>
 There is data analysis with use of libraries such as pandas, matplotlib, seaborn and numpy<br>
 In order to prepare map geopandas library was used, polygons where obtained from .shp file <br>
 
-&shy;<img src="https://i.ibb.co/4tMxkZZ/mapkageopandas.png"/>
+&shy;<img src="https://raw.githubusercontent.com/PKuziola/gunb_permissions/main/img/img_2.png"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +96,7 @@ Database is on GoogleBigQuery and dataset consists of two tables
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 📧 E-mail
-&shy;<img src="https://i.ibb.co/Y29LyN6/email.png"/>
+&shy;<img src="https://raw.githubusercontent.com/PKuziola/gunb_permissions/main/img/img_3.png"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +114,7 @@ Value constraints are: <br>
 - <strong>wojewodztwo_objekt</strong> -> Values must belong to particular set of values <br>
 
 
-&shy;<img src="https://i.ibb.co/7Cd0fn6/validation.png"/>
+&shy;<img src="https://raw.githubusercontent.com/PKuziola/gunb_permissions/main/img/img_4.png"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
